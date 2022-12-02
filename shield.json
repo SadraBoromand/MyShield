@@ -1,3 +1,6 @@
-{
-    "run": true
-}
+[
+    {
+        "name": "GuestMe"
+        "run": true
+    }
+]

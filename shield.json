@@ -1,6 +1,6 @@
 [
     {
         "name": "GuestMe",
-        "run": true
+        "run": false
     }
 ]

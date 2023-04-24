@@ -2,5 +2,9 @@
     {
         "name": "GuestMe",
         "run": false
+    },
+    {
+        "name": "newAdviser",
+        "run": true
     }
 ]
